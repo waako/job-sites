@@ -1,6 +1,6 @@
 ## List of non-recruiter(ish) job sites
 
-Have a read of **[The Joel Test]9http://www.joelonsoftware.com/articles/fog0000000043.html)** first.
+Have a read of **[The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html)** first.
 
 ### Specialist sites
 
