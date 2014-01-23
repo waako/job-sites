@@ -1,6 +1,6 @@
 ## List of non-recruiter(ish) job sites
 
-Have a read of **[The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html)** first.
+Have a read of **[The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html)** first. The short of it is [this list of questions](#joel-test). You might want to look at [This presentation about on-boarding](http://kae76.github.io/onboardingprocess_presentation/) also. 
 
 ### Specialist sites
 
@@ -27,3 +27,18 @@ Have a read of **[The Joel Test](http://www.joelonsoftware.com/articles/fog00000
 ### Networking sites
 
 * [Linkedin Jobs](http://uk.linkedin.com/job/q-front-end-developer-jobs)
+
+
+##### <a name="joel-test"></a>Joel Test
+
+* Do you use source control?
+* Can you make a build in one step?
+* Do you make daily builds?
+* Do you have a bug database?
+* Do you fix bugs before writing new code?
+* Do you have an up-to-date schedule?
+* Do you have a spec?
+* Do programmers have quiet working conditions?
+* Do you use the best tools money can buy?
+* Do you have testers?
+* Do new candidates write code during their interview?
