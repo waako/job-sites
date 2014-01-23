@@ -17,6 +17,11 @@ Have a read of **[The Joel Test](http://www.joelonsoftware.com/articles/fog00000
 * [Manchester Digital](http://www.manchesterdigital.com/recruitment)
 * [Wired Sussex](http://www.wiredsussex.com/jobs/jobsearch.asp)
 * [Digital Oxford](http://www.digitaloxford.com/#jobs)
+ 
+### Software/Technology Specific
+
+* [Drupal Jobs](https://groups.drupal.org/jobs)
+* [Drupal UK Wanted](http://drupal.org.uk/wanted)
 
 ### Newspapers
 
