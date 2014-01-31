@@ -1,6 +1,9 @@
 ## List of non-recruiter(ish) job sites
 
-Have a read of **[The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html)** first. The short of it is [this list of questions](#joel-test). You might want to look at [This presentation about on-boarding](http://kae76.github.io/onboardingprocess_presentation/) also. 
+[Front-end Developer interview questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)  
+Have a look through [This presentation about on-boarding](http://kae76.github.io/onboardingprocess_presentation/)  
+Maybe go through [The Joel Test](#joel-test) *link to [original article](http://www.joelonsoftware.com/articles/fog0000000043.html).  
+Another [list of Job listing website, more specific to front-end developers](https://github.com/bevacqua/jobs)
 
 ### Specialist sites
 
@@ -9,7 +12,7 @@ Have a read of **[The Joel Test](http://www.joelonsoftware.com/articles/fog00000
 * [We Work Remotely](https://weworkremotely.com)
 * [Dsgnjbs](http://www.dsgnjbs.com)
 
-### Industry Organisations/Publications job section
+### Industry Organisations / Publications job section
 
 * [Campus London](http://www.campuslondon.com/jobs/)
 * [Smashing Magazine](http://jobs.smashingmagazine.com)
@@ -18,10 +21,17 @@ Have a read of **[The Joel Test](http://www.joelonsoftware.com/articles/fog00000
 * [Wired Sussex](http://www.wiredsussex.com/jobs/jobsearch.asp)
 * [Digital Oxford](http://www.digitaloxford.com/#jobs)
  
-### Software/Technology Specific
+### Events / Meetups  
+Some events have 'Pitches' which are under-1min slots to tell people if you are looking to hire, looking for a job and other things.
+
+* [UX Oxford](http://uxoxford.co.uk/)
+* [Oxford Geek Nights](oxford.geeknights.net)
+ 
+### Software / Technology Specific
 
 * [Drupal Jobs](https://groups.drupal.org/jobs)
 * [Drupal UK Wanted](http://drupal.org.uk/wanted)
+* [On Savvy](http://onsavvy.com/)
 
 ### Newspapers
 
@@ -34,7 +44,7 @@ Have a read of **[The Joel Test](http://www.joelonsoftware.com/articles/fog00000
 * [Linkedin Jobs](http://uk.linkedin.com/job/q-front-end-developer-jobs)
 
 
-##### <a name="joel-test"></a>Joel Test
+##### <a name="joel-test"></a>[The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html)
 
 * Do you use source control?
 * Can you make a build in one step?
@@ -47,7 +57,3 @@ Have a read of **[The Joel Test](http://www.joelonsoftware.com/articles/fog00000
 * Do you use the best tools money can buy?
 * Do you have testers?
 * Do new candidates write code during their interview?
- 
-
-
-Another [list of Job listing website, more specific to front-end developers](https://github.com/bevacqua/jobs)
