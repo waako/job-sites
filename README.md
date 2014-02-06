@@ -14,6 +14,7 @@ Another [list of Job listing website, more specific to front-end developers](htt
 
 ### Industry Organisations / Publications job section
 
+* [Creative Bloq](http://jobs.creativebloq.com/)
 * [Campus London](http://www.campuslondon.com/jobs/)
 * [Smashing Magazine](http://jobs.smashingmagazine.com)
 * [Stack Overflow Jobs](http://careers.stackoverflow.com)
