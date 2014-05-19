@@ -11,6 +11,7 @@ Another [list of Job listing website, more specific to front-end developers](htt
 * [UX Jobs Board](http://www.uxjobsboard.com)
 * [We Work Remotely](https://weworkremotely.com)
 * [Dsgnjbs](http://www.dsgnjbs.com)
+* [Work in Startups](http://workinstartups.com/job-board/jobs/)
 
 ### Industry Organisations / Publications job section
 
@@ -21,6 +22,8 @@ Another [list of Job listing website, more specific to front-end developers](htt
 * [Manchester Digital](http://www.manchesterdigital.com/recruitment)
 * [Wired Sussex](http://www.wiredsussex.com/jobs/jobsearch.asp)
 * [Digital Oxford](http://www.digitaloxford.com/#jobs)
+* [Tuts+ Jobs](https://jobs.tutsplus.com/)
+* [coderwall](https://coderwall.com/jobs)
  
 ### Events / Meetups  
 Some events have 'Pitches' which are under-1min slots to tell people if you are looking to hire, looking for a job and other things.
