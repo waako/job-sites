@@ -43,6 +43,7 @@ Some events have 'Pitches' which are under-1min slots to tell people if you are 
 * [Drupal Jobs](https://groups.drupal.org/jobs)
 * [Drupal UK Wanted](http://drupal.org.uk/wanted)
 * [On Savvy](http://onsavvy.com/)
+* [Front-end Developer Job](http://frontenddeveloperjob.com)
 
 ### Newspapers
 
