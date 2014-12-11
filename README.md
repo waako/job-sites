@@ -1,9 +1,9 @@
 ## List of non-recruiter(ish) job sites
 
-[Front-end Developer interview questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
-Have a look through [This presentation about on-boarding](http://kae76.github.io/onboardingprocess_presentation/)
-Maybe go through [The Joel Test](#joel-test) *link to [original article](http://www.joelonsoftware.com/articles/fog0000000043.html).
-Another [list of Job listing website, more specific to front-end developers](https://github.com/bevacqua/jobs)
+[Front-end Developer interview questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)  
+Have a look through [This presentation about on-boarding](http://kae76.github.io/onboardingprocess_presentation/)  
+Maybe go through [The Joel Test](#joel-test) *link to [original article](http://www.joelonsoftware.com/articles/fog0000000043.html).  
+Another [list of Job listing website, more specific to front-end developers](https://github.com/bevacqua/jobs)  
 
 ### Specialist sites
 * [Authentic Jobs](http://www.authenticjobs.com)
