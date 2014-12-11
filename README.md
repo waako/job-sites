@@ -14,8 +14,15 @@ Another [list of Job listing website, more specific to front-end developers](htt
 * [Work in Startups](http://workinstartups.com/job-board/jobs/)
 
 ### Industry Organisations / Publications job section
+### Specialist freelance sites
+* [Need](https://needhq.com)
+* [Onsite](http://onsite.io)
+* [Yuno Juno](https://www.yunojuno.com/)
+* [Working Not Working](http://workingnotworking.com)
 
+### Industry Organisations / Publications job section
 * [Creative Bloq](http://jobs.creativebloq.com/)
+* [Creative Boom](http://www.creativeboom.co.uk/jobs/)
 * [Campus London](http://www.campuslondon.com/jobs/)
 * [Smashing Magazine](http://jobs.smashingmagazine.com)
 * [Stack Overflow Jobs](http://careers.stackoverflow.com)
