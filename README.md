@@ -9,6 +9,7 @@ Another [list of Job listing website, more specific to front-end developers](htt
 * [Authentic Jobs](http://www.authenticjobs.com)
 * [UX Jobs Board](http://www.uxjobsboard.com)
 * [We Work Remotely](https://weworkremotely.com)
+* [Remote Coder](https://remotecoder.io)
 * [Dsgnjbs](http://www.dsgnjbs.com)
 * [Work in Startups](http://workinstartups.com/job-board/jobs/)
 
