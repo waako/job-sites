@@ -8,10 +8,19 @@ Another [list of Job listing website, more specific to front-end developers](htt
 ### Specialist sites
 * [Authentic Jobs](http://www.authenticjobs.com)
 * [UX Jobs Board](http://www.uxjobsboard.com)
-* [We Work Remotely](https://weworkremotely.com)
-* [Remote Coder](https://remotecoder.io)
 * [Dsgnjbs](http://www.dsgnjbs.com)
 * [Work in Startups](http://workinstartups.com/job-board/jobs/)
+* [Jobety](https://jobety.com)
+* [Github Jobs](https://jobs.github.com/positions)
+ 
+### Remote job sites
+* [Jobmote](http://jobmote.com)
+* [We Work Remotely](https://weworkremotely.com)
+* [Remote Coder](https://remotecoder.io)
+* [Remote Hackers](http://remotehackers.com)
+* [Github Jobs remote](https://jobs.github.com/positions?description=&location=Remote)
+* [Authentic Jobs remote](http://www.authenticjobs.com/#onlyremote=1)
+* [Stack Overflow Jobs remote](http://careers.stackoverflow.com/jobs/remote)
 
 ### Specialist freelance sites
 * [Need](https://needhq.com)
