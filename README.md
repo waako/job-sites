@@ -12,6 +12,7 @@ Another [list of Job listing website, more specific to front-end developers](htt
 * [Work in Startups](http://workinstartups.com/job-board/jobs/)
 * [Jobety](https://jobety.com)
 * [Github Jobs](https://jobs.github.com/positions)
+* [Unicorn Hunt](https://unicornhunt.io) *startups, mostly around London*
  
 ### Remote job sites
 * [Jobmote](http://jobmote.com)
