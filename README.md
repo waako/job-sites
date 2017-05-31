@@ -15,6 +15,7 @@ Curated [collection of remote working resources](https://github.com/lukasz-madon
 * [Github Jobs](https://jobs.github.com/positions)
 * [Unicorn Hunt](https://unicornhunt.io) *startups, mostly around London*
 * [Jobserve](http://www.jobserve.com/gb/en/Job-Search/)
+* [whoishiring.io](https://whoishiring.io/)
  
 ### Remote job sites
 * [Jobmote](http://jobmote.com)
