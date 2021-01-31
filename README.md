@@ -17,6 +17,7 @@ Curated [collection of remote working resources](https://github.com/lukasz-madon
 * [Jobserve](http://www.jobserve.com/gb/en/Job-Search/)
  
 ### Remote job sites
+* [Career Vault](https://careervault.io)
 * [Jobmote](http://jobmote.com)
 * [We Work Remotely](https://weworkremotely.com)
 * [Remote Coder](https://remotecoder.io)
