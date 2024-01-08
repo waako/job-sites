@@ -24,6 +24,7 @@ Curated [collection of remote working resources](https://github.com/lukasz-madon
 * [Github Jobs remote](https://jobs.github.com/positions?description=&location=Remote)
 * [Authentic Jobs remote](http://www.authenticjobs.com/#onlyremote=1)
 * [Stack Overflow Jobs remote](http://careers.stackoverflow.com/jobs/remote)
+* [OkJob](https://okjob.io/remote-4-day-work-week/)
 
 ### Specialist freelance sites
 * [Need](https://needhq.com)
